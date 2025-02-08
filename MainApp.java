@@ -1,3 +1,11 @@
+/* 
+ * Program To Calculate The Employee Bonus
+ * Author: Thuku Josphat Wamwago
+ * Reg No: CT101/G/19448/23
+ * Date: 3/2/2025
+ * Version: 1
+ */
+
 //importing the scanner input class
 import java.util.Scanner;
 
